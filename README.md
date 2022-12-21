@@ -2,7 +2,7 @@
 Floating point multiply and add using first C, then will create a SystemVerilog version. 
 
 ---mermaid 
-    graph TD;
+    flowchart TD;
     A-->B;
     A-->C;
     B-->D;
